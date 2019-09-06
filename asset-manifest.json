@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LaviniaChiburte/my-travels/static/css/main.a0b94fce.chunk.css",
-    "main.js": "/LaviniaChiburte/my-travels/static/js/main.91d46d4c.chunk.js",
-    "main.js.map": "/LaviniaChiburte/my-travels/static/js/main.91d46d4c.chunk.js.map",
-    "runtime~main.js": "/LaviniaChiburte/my-travels/static/js/runtime~main.e5037b75.js",
-    "runtime~main.js.map": "/LaviniaChiburte/my-travels/static/js/runtime~main.e5037b75.js.map",
-    "static/js/2.0d7b26e3.chunk.js": "/LaviniaChiburte/my-travels/static/js/2.0d7b26e3.chunk.js",
-    "static/js/2.0d7b26e3.chunk.js.map": "/LaviniaChiburte/my-travels/static/js/2.0d7b26e3.chunk.js.map",
-    "index.html": "/LaviniaChiburte/my-travels/index.html",
-    "precache-manifest.5aa6a4ac631d4123acd1d81f41e94b59.js": "/LaviniaChiburte/my-travels/precache-manifest.5aa6a4ac631d4123acd1d81f41e94b59.js",
-    "service-worker.js": "/LaviniaChiburte/my-travels/service-worker.js",
-    "static/css/main.a0b94fce.chunk.css.map": "/LaviniaChiburte/my-travels/static/css/main.a0b94fce.chunk.css.map"
+    "main.css": "/my-travels/static/css/main.a0b94fce.chunk.css",
+    "main.js": "/my-travels/static/js/main.e6876c1c.chunk.js",
+    "main.js.map": "/my-travels/static/js/main.e6876c1c.chunk.js.map",
+    "runtime~main.js": "/my-travels/static/js/runtime~main.e55e7c4b.js",
+    "runtime~main.js.map": "/my-travels/static/js/runtime~main.e55e7c4b.js.map",
+    "static/js/2.0ba795a9.chunk.js": "/my-travels/static/js/2.0ba795a9.chunk.js",
+    "static/js/2.0ba795a9.chunk.js.map": "/my-travels/static/js/2.0ba795a9.chunk.js.map",
+    "index.html": "/my-travels/index.html",
+    "precache-manifest.3bb4337927910c71c64d6d0ec85e2cdb.js": "/my-travels/precache-manifest.3bb4337927910c71c64d6d0ec85e2cdb.js",
+    "service-worker.js": "/my-travels/service-worker.js",
+    "static/css/main.a0b94fce.chunk.css.map": "/my-travels/static/css/main.a0b94fce.chunk.css.map"
   }
 }
