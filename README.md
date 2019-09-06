@@ -6,7 +6,8 @@ Install dependencies yarn install
 Start the application yarn start The magic happens on port 3000
 
 # Demo
-Link to Demo App: 
+Link to Demo App: https://github.com/LaviniaChiburte/my-travels
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

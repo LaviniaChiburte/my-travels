@@ -1,8 +1,8 @@
 {
-	"homepage": "http://{LaviniaChiburte}.github.io/{my-travels}",
 	"name": "my-travels",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://github.com/LaviniaChiburte/my-travels",
 	"dependencies": {
 		"gh-pages": "^2.1.1",
 		"react": "^16.9.0",
