@@ -2,7 +2,7 @@
 	"name": "my-travels",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/LaviniaChiburte/my-travels",
+	"homepage": " https://laviniachiburte.github.io/my-travels/",
 	"dependencies": {
 		"gh-pages": "^2.1.1",
 		"react": "^16.9.0",
