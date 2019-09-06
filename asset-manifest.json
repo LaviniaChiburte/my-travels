@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/css/main.a0b94fce.chunk.css",
-    "main.js": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/js/main.35b0ac1c.chunk.js",
-    "main.js.map": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/js/main.35b0ac1c.chunk.js.map",
-    "runtime~main.js": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/js/runtime~main.83a23826.js",
-    "runtime~main.js.map": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/js/runtime~main.83a23826.js.map",
-    "static/js/2.0d7b26e3.chunk.js": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/js/2.0d7b26e3.chunk.js",
-    "static/js/2.0d7b26e3.chunk.js.map": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/js/2.0d7b26e3.chunk.js.map",
-    "index.html": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/index.html",
-    "precache-manifest.7a3736ec3e084d6ca479284a41c9edd0.js": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/precache-manifest.7a3736ec3e084d6ca479284a41c9edd0.js",
-    "service-worker.js": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/service-worker.js",
-    "static/css/main.a0b94fce.chunk.css.map": "%7BLaviniaChiburte%7D.github.io/%7Bmy-travels%7D/static/css/main.a0b94fce.chunk.css.map"
+    "main.css": "/LaviniaChiburte/my-travels/static/css/main.a0b94fce.chunk.css",
+    "main.js": "/LaviniaChiburte/my-travels/static/js/main.91d46d4c.chunk.js",
+    "main.js.map": "/LaviniaChiburte/my-travels/static/js/main.91d46d4c.chunk.js.map",
+    "runtime~main.js": "/LaviniaChiburte/my-travels/static/js/runtime~main.e5037b75.js",
+    "runtime~main.js.map": "/LaviniaChiburte/my-travels/static/js/runtime~main.e5037b75.js.map",
+    "static/js/2.0d7b26e3.chunk.js": "/LaviniaChiburte/my-travels/static/js/2.0d7b26e3.chunk.js",
+    "static/js/2.0d7b26e3.chunk.js.map": "/LaviniaChiburte/my-travels/static/js/2.0d7b26e3.chunk.js.map",
+    "index.html": "/LaviniaChiburte/my-travels/index.html",
+    "precache-manifest.5aa6a4ac631d4123acd1d81f41e94b59.js": "/LaviniaChiburte/my-travels/precache-manifest.5aa6a4ac631d4123acd1d81f41e94b59.js",
+    "service-worker.js": "/LaviniaChiburte/my-travels/service-worker.js",
+    "static/css/main.a0b94fce.chunk.css.map": "/LaviniaChiburte/my-travels/static/css/main.a0b94fce.chunk.css.map"
   }
 }
