@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const Travels = ({ destination, country, image, distance }) => (
 	<div class="container" style={displayContainer}>
