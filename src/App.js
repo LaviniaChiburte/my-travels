@@ -1,10 +1,5 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
-
-<BrowserRouter basename="/my-travels/"></BrowserRouter>;
-
 import './App.css';
-
 import Travels from './Travels';
 import Header from './Header';
 
