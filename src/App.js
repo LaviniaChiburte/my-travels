@@ -1,4 +1,7 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+
+<BrowserRouter basename="/my-travels/"></BrowserRouter>;
 
 import './App.css';
 
