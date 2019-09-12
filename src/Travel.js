@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Travels = ({ destination, country, image, distance }) => (
+const Travel = ({ destination, country, image, distance }) => (
 	<div class="container" style={displayContainer}>
 		<div class="row">
 			<div class="col s12">
@@ -17,4 +17,4 @@ const displayContainer = {
 	display: 'flex'
 };
 
-export default Travels;
+export default Travel;

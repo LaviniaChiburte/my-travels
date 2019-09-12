@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Travels from './Travels';
+import Travel from './Travel';
 import Header from './Header';
 
 function App() {
@@ -8,21 +8,21 @@ function App() {
 		<React.Fragment>
 			<Header />
 			<div style={displaySection}>
-				<Travels
+				<Travel
 					destination="New Delhi"
 					country="India"
 					image="https://cdn.glitch.com/df838319-9382-43ce-8538-573b42f7eb58%2Fevent-new-delhi-620x370%20(1).jpg?v=1567793496297"
 					distance="6000km"
 				/>
 
-				<Travels
+				<Travel
 					destination="Barcelona"
 					country="Spain"
 					image="https://cdn.glitch.com/df838319-9382-43ce-8538-573b42f7eb58%2Fbarcelona.jpeg?v=1567795481073"
 					distance="1200km"
 				/>
 
-				<Travels
+				<Travel
 					destination="London"
 					country="United Kingdom"
 					image="https://cdn.glitch.com/df838319-9382-43ce-8538-573b42f7eb58%2Flondon_2423609b.jpg?v=1567795496860"
