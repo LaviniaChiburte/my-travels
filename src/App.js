@@ -1,33 +1,18 @@
 import React from 'react';
-import './App.css';
-import Travel from './Travel';
 import Header from './Header';
+import Button from './Button';
+import TextField from './Alarm';
+import './App.css';
+import Travels from './Travels';
 
 function App() {
 	return (
 		<React.Fragment>
+			<Button />
+			<TextField />
 			<Header />
-			<div style={displaySection}>
-				<Travel
-					destination="New Delhi"
-					country="India"
-					image="https://cdn.glitch.com/df838319-9382-43ce-8538-573b42f7eb58%2Fevent-new-delhi-620x370%20(1).jpg?v=1567793496297"
-					distance="6000km"
-				/>
-
-				<Travel
-					destination="Barcelona"
-					country="Spain"
-					image="https://cdn.glitch.com/df838319-9382-43ce-8538-573b42f7eb58%2Fbarcelona.jpeg?v=1567795481073"
-					distance="1200km"
-				/>
-
-				<Travel
-					destination="London"
-					country="United Kingdom"
-					image="https://cdn.glitch.com/df838319-9382-43ce-8538-573b42f7eb58%2Flondon_2423609b.jpg?v=1567795496860"
-					distance="1500km"
-				/>
+			<div className="container" style={displaySection}>
+				<Travels />
 			</div>
 		</React.Fragment>
 	);

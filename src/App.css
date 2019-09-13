@@ -15,3 +15,6 @@ body {
 		transform: rotate(360deg);
 	}
 }
+.buton {
+	margin: 20px;
+}
